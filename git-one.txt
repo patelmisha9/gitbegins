@@ -1,2 +1,5 @@
  git init
  git branch -M main
+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
+git status
+git add
